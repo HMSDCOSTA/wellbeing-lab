@@ -16,12 +16,19 @@ Organizations today struggle with employee engagement, emotional health, and psy
 - Foster community and cultural connection
 - Act as an ethical and confidential communication bridge
 
+## 📚 License
+
+This project is shared under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License**.  
+You may share it with attribution, but not for commercial purposes, and you may not modify or redistribute altered versions.
+
+Read the full license here: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
 ## 🚀 How users can get started with the project
 
 This is a conceptual repository and does not contain executable code. Users interested in the concept are encouraged to:
 
 - Read the project description in this README
-- Explore similar products (e.g., Calm, Headway, Welltory, LinkedIn's workplace mental health initiatives)
+- Explore similar products (e.g., Calm, Headway, Welltory, or workplace wellbeing initiatives)
 - Watch the film *Her* (2013) for philosophical inspiration
 - Reflect on how AI can enable empathy and mental resilience
 
