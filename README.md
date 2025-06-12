@@ -4,7 +4,7 @@
 
 ![Wellbeing-lab preview](Wellbeing-lab.png)
 
-# wellbeing-lab
+# Wellbeing-lab
 AI-based emotional wellbeing assistant for organizational health. Concept project developed during the Building AI course. Focused on preventive mental health, empathy, and intelligent interaction at work.
 
 **Conceptual project developed as part of the "Building AI" course by the University of Helsinki.**
