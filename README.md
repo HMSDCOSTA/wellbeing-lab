@@ -5,7 +5,7 @@ AI-based emotional wellbeing assistant for organizational health. Concept projec
 
 **Conceptual project developed as part of the "Building AI" course by the University of Helsinki.**
 
-## 🌿 What the project does
+## 🌿 Summary
 
 **Wellbeing-lab** is a conceptual exploration of an AI-powered assistant designed to promote emotional wellbeing in organizational settings. It imagines a digital companion that supports employees through lightweight, proactive, and human-centered interactions.
 
